@@ -1,0 +1,9 @@
+
+{
+	"name": "Scrivener Packages",
+	"homepage": "http://satis.app/",
+	"repositories": [
+		{ "type": "vcs", "url": "git@github.com:TelemundoDigitalUnit/Elegant.git" }
+	],
+	"require-all": true
+}
