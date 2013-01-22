@@ -5,3 +5,4 @@ satis.phar
 vendor
 web/
 composer.lock
+composer.phar
