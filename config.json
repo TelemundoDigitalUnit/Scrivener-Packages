@@ -4,7 +4,8 @@
 	"homepage": "http://satis.app/",
 	"repositories": [
 		{ "type": "vcs", "url": "git@github.com:TelemundoDigitalUnit/Elegant.git" },
-		{ "type": "vcs", "url": "git@github.com:TelemundoDigitalUnit/Sentinel.git" }
+		{ "type": "vcs", "url": "git@github.com:TelemundoDigitalUnit/Sentinel.git" },
+		{ "type": "vcs", "url": "git@github.com:TelemundoDigitalUnit/Annex.git" }
 	],
 	"require-all": true
 }
